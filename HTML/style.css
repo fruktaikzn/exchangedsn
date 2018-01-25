@@ -1,0 +1,7 @@
+header {
+  height: 146px;
+  width: 640px;
+  background-size: initial;
+  background-image: url('images/header_bg.png');
+  display: block;
+}
